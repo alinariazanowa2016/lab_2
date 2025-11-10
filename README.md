@@ -9,8 +9,13 @@
 4. Реализация простого HTTP-сервера на сокетах.
 <img width="974" height="506" alt="image" src="https://github.com/user-attachments/assets/670924f9-5dc9-4ab7-a57d-ac0c95714bce" />
 
+Рисунок 1 – Запуск эхо – сервера
+
 <img width="974" height="490" alt="image" src="https://github.com/user-attachments/assets/3678534e-de27-4c96-b81f-2f67b56bdeb4" />
 
+Рисунок 2 – Запуск эхо – клиента
+
 <img width="974" height="550" alt="image" src="https://github.com/user-attachments/assets/2ef70e39-065c-4385-bc13-5939d33ad9ca" />
+Рисунок 3 - Результат
 
 
